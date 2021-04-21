@@ -1,7 +1,6 @@
 # ntopng-docker
 A docker-image for ntopng for running on a amd64, with data (and config) persistence.
 ntopng is used to analyze traffic from multiple sensors placed in the network, f.e. softflowd on OpenWRT.
-Based on the work of (https://github.com/frostasm/ntopng-docker)
 
 ## Prerequisites
 *   Docker
